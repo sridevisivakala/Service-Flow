@@ -1,0 +1,6 @@
+{
+  "name": "ServiceFlow",
+  "description": "Automated AI-powered support case routing, agent workload balancing, and SLA compliance dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
